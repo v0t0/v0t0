@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 
+I'm V0t0. 
+
+I'm currently working on some personal passion projects and rearranging my past projects to be managed here. 
+
+I'm still learning how to use and manage this space 
+
+🫡✨🦑🍄🦉
 
 <!--
 **v0t0/v0t0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
